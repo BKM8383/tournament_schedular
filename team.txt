@@ -1,0 +1,40 @@
+Team names : 
+
+1. AA
+2. BB
+3. CC
+4. DD
+ 
+
+Team players names : 
+
+
+
+Team 1. ( AA )
+1. a
+2. wTÞa
+
+
+Team 2. ( BB )
+1. a
+2. 
+
+
+Team 3. ( CC )
+1. a
+2. 
+
+
+Team 4. ( DD )
+1. a
+2. Î
+
+
+Tournament Schedule:
+
+Match 1 - AA vs BB on 1
+Match 2 - AA vs CC on 1
+Match 3 - AA vs DD on 1
+Match 4 - BB vs CC on 1
+Match 5 - BB vs DD on 1
+Match 6 - CC vs DD on 1
